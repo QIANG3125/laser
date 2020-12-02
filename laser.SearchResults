@@ -1,0 +1,6 @@
+---- config_error Matches (5 in 0 files) ----
+tdc_gpx2.c (HARDWARE\TDC_GPX2) line 58 : char config_error = false;
+tdc_config in tdc_gpx2.c (HARDWARE\TDC_GPX2) : 	config_error = false;
+tdc_config in tdc_gpx2.c (HARDWARE\TDC_GPX2) : 			config_error = true;
+tdc_config in tdc_gpx2.c (HARDWARE\TDC_GPX2) : 		if(config_error)
+tdc_config in tdc_gpx2.c (HARDWARE\TDC_GPX2) : 	if(config_error == false)
